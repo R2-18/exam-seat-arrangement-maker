@@ -15,7 +15,7 @@ iv) Repeated work: For every new exam, teachers have to make the whole seating c
 
 
 # 3. My Solution
-The Exam Seat Arrangement Maker is a simple Python program that makes exam seating plans automatically[cite: 1, 7, 8].
+The Exam Seat Arrangement Maker is a simple Python program that makes exam seating plans automatically.
 You just enter student details and room sizes . The program randomly shuffles the roll numbers so students get mixed up, then assigns each student to a desk. Extra desks are marked as `"empty"`, and if rooms run out of space, the program tells you which students are left without a seat.
 
 
